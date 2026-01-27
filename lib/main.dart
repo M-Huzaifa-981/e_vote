@@ -1,6 +1,5 @@
 import 'package:e_vote/views/home_screen.dart';
 import 'package:flutter/material.dart';
-
 import 'main2.dart';
 
 void main() {
