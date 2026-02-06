@@ -24,7 +24,7 @@ class _Main2State extends State<Main2> {
               padding: const EdgeInsets.all(8.0),
               child: ElevatedButton(
                   onPressed: (){
-                    Navigator.push(context, MaterialPageRoute(builder: (context)=> HomeScreen()));
+                    Navigator.push(context, MaterialPageRoute(builder: (context)=> HomeScreenTest()));
                   },
                   child: Text("Screen1")
               ),

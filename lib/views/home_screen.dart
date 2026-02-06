@@ -2,8 +2,8 @@ import 'package:e_vote/views/register_screen.dart';
 import 'package:e_vote/views/vote_screen.dart';
 import 'package:flutter/material.dart';
 
-class HomeScreen extends StatelessWidget {
-  const HomeScreen({super.key});
+class HomeScreenTest extends StatelessWidget {
+  const HomeScreenTest({super.key});
 
   @override
   Widget build(BuildContext context) {
